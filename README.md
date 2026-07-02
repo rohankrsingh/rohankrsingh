@@ -103,7 +103,7 @@ AI-powered CLI for Arch Linux that recommends, installs, and configures complete
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
 </p>
 
 ### Databases & Backends
@@ -119,7 +119,7 @@ AI-powered CLI for Arch Linux that recommends, installs, and configures complete
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman,linux"/>
 </p>
 
 ## GitHub Analytics
