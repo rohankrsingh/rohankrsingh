@@ -6,17 +6,23 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate full-stack developer and open-source enthusiast currently pursuing a **BCA degree** at Guru Gobind Singh Indraprastha University (GPA: 8.77/10, Graduating 2026). I love building scalable web applications and understanding how systems work under the hood.
+Full-stack software engineer with expertise in building scalable web applications and cloud-native solutions. Strong foundation in computer science with a BCA degree (GPA: 8.77/10) from Guru Gobind Singh Indraprastha University. Passionate about open-source development, system design, and leveraging cutting-edge technologies to solve real-world problems.
 
-- 🎓 **Education**: BCA @ GGSIPU | Expected Graduation: 2026
-- 💻 **Focus**: Full-stack development with **React/Next.js, TypeScript, Node.js, and Spring Boot**
-- 🐧 **Philosophy**: Linux and open-source advocate — I believe in learning deeply, not just using tools
-- ☁️ **DevOps**: Docker, AWS (ECS Fargate), GitHub Actions
-- 🤖 **Exploring**: Agentic AI, Backend Engineering Best Practices
-- 📦 **Published**: `ai-pkg` on the Arch User Repository (AUR)
-- 📧 **Contact**: [rohankrsingh125@gmail.com](mailto:rohankrsingh125@gmail.com)
+**Technical Expertise:**
+- Full-stack development with React, Next.js, TypeScript, and Spring Boot
+- Cloud infrastructure and DevOps (AWS, Docker, GitHub Actions)
+- Real-time applications and Socket.IO integration
+- Backend systems design and API development
+
+**Professional Interests:**
+- Microservices architecture and distributed systems
+- Agentic AI and LLM integration
+- Open-source software contributions
+- System design and scalability patterns
+
+**Contact:** [rohankrsingh125@gmail.com](mailto:rohankrsingh125@gmail.com)
 
 ---
 
@@ -30,7 +36,7 @@ I'm a passionate full-stack developer and open-source enthusiast currently pursu
 
 ---
 
-## 💼 Tech Stack
+## 💼 Technical Stack
 
 ### Languages
 <div align="left">
@@ -58,7 +64,7 @@ I'm a passionate full-stack developer and open-source enthusiast currently pursu
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
-### Tools & DevOps
+### DevOps & Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
@@ -72,68 +78,25 @@ I'm a passionate full-stack developer and open-source enthusiast currently pursu
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-### Overall Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rohankrsingh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rohankrsingh&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-</picture>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohankrsingh&show_icons=true&theme=dark&count_private=true)](https://github.com/rohankrsingh)
 
-### Most Used Languages
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankrsingh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankrsingh&layout=compact&theme=default&hide_border=true&langs_count=8" width="48%"/>
-</picture>
-
-### Contribution Streak
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-streak-stats.herokuapp.com/?user=rohankrsingh&theme=github-dark-blue&hide_border=true&stroke=667eea" />
-  <img src="https://github-streak-stats.herokuapp.com/?user=rohankrsingh&theme=default&hide_border=true&stroke=667eea" width="60%"/>
-</picture>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohankrsingh&layout=compact&theme=dark)](https://github.com/rohankrsingh)
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## Connect
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/output/github-contribution-grid-snake.svg" width="90%"/>
-</picture>
-
-</div>
-
----
-
-## 🎯 Quick Links
-
-- 🌐 **Portfolio**: Coming Soon
-- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/rohan-kr-singh/)
-- 🐦 **Twitter**: [@rohankrsingh](https://twitter.com/rohankrsingh)
-- 📝 **Blog**: Medium Articles Coming Soon
-- 🤝 **Open to**: Collaborations, Open Source Contributions, Full-Stack Projects
-
----
-
-## 💡 What I'm Learning
-
-- Advanced Spring Boot patterns and microservices architecture
-- Agentic AI and LLM integration
-- Cloud-native application design with AWS
-- System design and scalability principles
+- 💼 **LinkedIn**: [rohan-kr-singh](https://www.linkedin.com/in/rohan-kr-singh/)
+- 📧 **Email**: [rohankrsingh125@gmail.com](mailto:rohankrsingh125@gmail.com)
+- 🐙 **GitHub**: [rohankrsingh](https://github.com/rohankrsingh)
 
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
-
-**Let's connect and build something amazing together!** 🚀
 
 </div>
