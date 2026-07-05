@@ -126,7 +126,7 @@ AI-powered CLI for Arch Linux that recommends, installs, and configures complete
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohankrsingh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohankrsingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankrsingh&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -142,7 +142,7 @@ AI-powered CLI for Arch Linux that recommends, installs, and configures complete
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankrsingh&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohankrsingh&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -150,7 +150,7 @@ AI-powered CLI for Arch Linux that recommends, installs, and configures complete
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rohankrsingh&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rohankrsingh&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true"/>
 
 </div>
 
