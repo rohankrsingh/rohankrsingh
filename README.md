@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Rohan%20Kr%20Singh&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20Backend%20Developer%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Rohan%20Kumar%20Singh&fontSize=48&fontAlignY=36&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20Backend%20Developer%20•%20Open%20Source%20Enthusiast&descAlignY=58&descSize=20"/>
 
 <p align="center">
 Building scalable web applications, cloud-native solutions, and developer tools.
@@ -126,9 +126,9 @@ AI-powered CLI for Arch Linux that recommends, installs, and configures complete
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rohankrsingh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/main/profile/stats.svg"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankrsingh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/main/profile/top-langs.svg"/>
 
 </div>
 
