@@ -126,9 +126,12 @@ AI-powered CLI for Arch Linux that recommends, installs, and configures complete
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/main/profile/metrics-stats.svg"/>
+<img width="48%" src="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/main/profile/metrics-stats.svg"/>
+<img width="48%" src="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/main/profile/metrics-community.svg"/>
 
-<img height="170" src="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/main/profile/metrics-langs.svg"/>
+<br/>
+
+<img width="60%" src="https://raw.githubusercontent.com/rohankrsingh/rohankrsingh/main/profile/metrics-langs.svg"/>
 
 </div>
 
